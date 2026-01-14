@@ -1,0 +1,11 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-feature-settings: "cv02","cv03","cv04","cv11";
+}
+
+code {
+    font-family: "JetBrains Mono", monospace;
+}
